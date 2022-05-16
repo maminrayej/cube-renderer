@@ -15,7 +15,7 @@
 #include "camera.h"
 #include "texture.h"
 
-// TODO: Implement a class for handling textures
+
 camera::Camera cameraObj{};
 
 float deltaTime{0.0f};
